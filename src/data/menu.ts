@@ -18,7 +18,7 @@ export const menuItems: Product[] = [
     description: 'Acompanha: Vatapá, Vinagrete, Batatonese, Farofa, Arroz',
     price: 29.00,
     category: 'complete',
-    image: '/img/carne-completo.jpg'
+    image: 'img/carne-completo.jpg'
   },
   {
     id: '2',
@@ -26,7 +26,7 @@ export const menuItems: Product[] = [
     description: 'Acompanha: Vatapá, Vinagrete, Batatonese, Farofa, Arroz',
     price: 28.00,
     category: 'complete',
-    image: '/img/frango-completo.jpg'
+    image: 'img/frango-completo.jpg'
   },
   {
     id: '3',
@@ -34,7 +34,7 @@ export const menuItems: Product[] = [
     description: 'Acompanha: Vatapá, Vinagrete, Batatonese, Farofa, Arroz',
     price: 28.00,
     category: 'complete',
-    image: '/img/misto-completo.jpg'
+    image: 'img/misto-completo.jpg'
   },
 
   // =========================================
@@ -46,7 +46,7 @@ export const menuItems: Product[] = [
     description: 'Com Farofa',
     price: 17.00,
     category: 'simple',
-    image: '/img/carne-simples.jpg'
+    image: 'img/carne-simples.jpg'
   },
   {
     id: '5',
@@ -54,7 +54,7 @@ export const menuItems: Product[] = [
     description: 'Com Farofa',
     price: 17.00,
     category: 'simple',
-    image: '/img/misto-simples.jpg'
+    image: 'img/misto-simples.jpg'
   },
   {
     id: '6',
@@ -62,7 +62,7 @@ export const menuItems: Product[] = [
     description: 'Com Farofa',
     price: 17.00,
     category: 'simple',
-    image: '/img/frango-simples.jpg'
+    image: 'img/frango-simples.jpg'
   },
 
   // =========================================
@@ -74,7 +74,7 @@ export const menuItems: Product[] = [
     description: 'Com Farofa e Vinagrete',
     price: 20.00,
     category: 'simple-vinaigrette',
-    image: '/img/carne-simples.jpg'
+    image: 'img/carne-simples.jpg'
   },
   {
     id: '8',
@@ -82,7 +82,7 @@ export const menuItems: Product[] = [
     description: 'Com Farofa e Vinagrete',
     price: 20.00,
     category: 'simple-vinaigrette',
-    image: '/img/frango-simples.jpg'
+    image: 'img/frango-simples.jpg'
   },
   {
     id: '9',
@@ -90,7 +90,7 @@ export const menuItems: Product[] = [
     description: 'Com Farofa e Vinagrete',
     price: 20.00,
     category: 'simple-vinaigrette',
-    image: '/img/misto-simples.jpg'
+    image: 'img/misto-simples.jpg'
   },
 
   // =========================================
@@ -102,7 +102,7 @@ export const menuItems: Product[] = [
     description: 'Com Farofa e Batatonese',
     price: 20.00,
     category: 'simple-mayo',
-    image: '/img/carne-simples.jpg'
+    image: 'img/carne-simples.jpg'
   },
   {
     id: '11',
@@ -110,7 +110,7 @@ export const menuItems: Product[] = [
     description: 'Com Farofa e Batatonese',
     price: 20.00,
     category: 'simple-mayo',
-    image: '/img/frango-simples.jpg'
+    image: 'img/frango-simples.jpg'
   },
   {
     id: '12',
@@ -118,7 +118,7 @@ export const menuItems: Product[] = [
     description: 'Com Farofa e Batatonese',
     price: 20.00,
     category: 'simple-mayo',
-    image: '/img/misto-simples.jpg'
+    image: 'img/misto-simples.jpg'
   },
 
   // =========================================
@@ -130,7 +130,7 @@ export const menuItems: Product[] = [
     description: 'Com Farofa, Batatonese e Vinagrete',
     price: 23.00,
     category: 'simple-all',
-    image: '/img/carne-completo.jpg'
+    image: 'img/carne-completo.jpg'
   },
   {
     id: '14',
@@ -138,7 +138,7 @@ export const menuItems: Product[] = [
     description: 'Com Farofa, Batatonese e Vinagrete',
     price: 23.00,
     category: 'simple-all',
-    image: '/img/frango-completo.jpg'
+    image: 'img/frango-completo.jpg'
   },
   {
     id: '15',
@@ -146,7 +146,7 @@ export const menuItems: Product[] = [
     description: 'Com Farofa, Batatonese e Vinagrete',
     price: 23.00,
     category: 'simple-all',
-    image: '/img/misto-completo.jpg'
+    image: 'img/misto-completo.jpg'
   },
 
   // =========================================
@@ -157,41 +157,41 @@ export const menuItems: Product[] = [
     name: 'Porção de Arroz',
     price: 9.00,
     category: 'portion',
-    image: '/img/arroz.jpg'
+    image: 'img/arroz.jpg'
   },
   {
     id: '17',
     name: 'Porção de Batatonese',
     price: 15.00,
     category: 'portion',
-    image: '/img/batatonese.jpg'
+    image: 'img/batatonese.jpg'
   },
   {
     id: '18',
     name: 'Porção de Farofa',
     price: 10.00,
     category: 'portion',
-    image: '/img/farofa.jpg'
+    image: 'img/farofa.jpg'
   },
   {
     id: '19',
     name: 'Porção de Vinagrete',
     price: 12.00,
     category: 'portion',
-    image: '/img/vinagrete.jpg'
+    image: 'img/vinagrete.jpg'
   },
   {
     id: '20',
     name: 'Porção de Vatapá',
     price: 20.00,
     category: 'portion',
-    image: '/img/vatapa.jpg'
+    image: 'img/vatapa.jpg'
   },
   {
     id: '21',
     name: 'Feijão Tropeiro',
     price: 20.00,
     category: 'portion',
-    image: '/img/feijao.jpg'
+    image: 'img/feijao.jpg'
   },
 ];
